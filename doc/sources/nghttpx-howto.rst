@@ -401,6 +401,8 @@ like so:
 
    frontend=*,443;proxyproto
 
+nghttpx supports both PROXY protocol v1 and v2.
+
 Session affinity
 ----------------
 
